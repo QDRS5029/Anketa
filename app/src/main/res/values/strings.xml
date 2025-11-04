@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Анкета пользователя</string>
+    <string name="name_hint">Введите ваше имя</string>
+    <string name="name_label">Имя</string>
+    <string name="age_label">Возраст</string>
+    <string name="gender_label">Пол</string>
+    <string name="male">Мужской</string>
+    <string name="female">Женский</string>
+    <string name="news_subscription">Хочу получать новости</string>
+    <string name="submit_button">Отправить</string>
+    <string name="summary_title">Сводка</string>
+    <string name="name_summary">Имя: %s</string>
+    <string name="age_summary">Возраст: %d</string>
+    <string name="gender_summary">Пол: %s</string>
+    <string name="subscription_summary">Подписка: %s</string>
+    <string name="yes">да</string>
+    <string name="no">нет</string>
+    <string name="empty_name_error">Пожалуйста, введите ваше имя</string>
+</resources>
